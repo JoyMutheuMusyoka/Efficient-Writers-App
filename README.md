@@ -41,7 +41,7 @@ We welcome contributions from the open-source community! If you have any suggest
 
 ## Project Owner
 
-Hi, I'm Joy Mutheu Musyoka, the project owner of the Efficient Writers App. You can contact me at [your_email@example.com](mailto:your_email@example.com).
+Hi, I'm Joy Mutheu Musyoka, the project owner of the Efficient Writers App. You can contact me at [joymutheumusyoka@gmail.com](mailto: joymutheumusyoka@gmail.com).
 
 ## License
 
