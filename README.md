@@ -1,6 +1,6 @@
  Efficient Writers Inc.
 
-The Efficient Writers Inc. is a unique freelancing platform designed to connect academic and article writers in Kenya with prospective employers. The app aims to streamline the freelancing process, empower youth self-employment, and enhance the quality of work by offering a comprehensive set of features and tools.
+The Efficient Writers Inc. is a unique AI-powered freelancing platform designed to connect academic and article writers in Kenya with prospective employers. The app aims to streamline the freelancing process. 
 
 FEATURES OF EFFICIENT WRITERS APP 
 
