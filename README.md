@@ -1,4 +1,4 @@
-About my App: Efficient Writers
+About Efficient Writers
 
 Efficient Writers is a unique AI-powered freelancing platform designed to connect academic and article writers in Kenya with prospective employers. The app aims to streamline the freelancing process. 
 
@@ -31,18 +31,18 @@ FEATURES OF EFFICIENT WRITERS APP
 - Data Analytics:Detailed analytics for data-driven decisions.
 - Location Functionality: Geolocation feature for job posting and search.
 
-##Installation
+Installation
 
 Currently, the Efficient Writers App is under development. More information on installation and usage will be provided upon its official release.
 
-## Contributing
+Contributing
 
 We welcome contributions from the global open-source community! If you have any suggestions, bug reports, or enhancements, please feel free to open an issue or submit a pull request.
 
-## Project Owner
+Project Owner
 
-Hi, I'm Joy Mutheu Musyoka, the project owner of the Efficient Writers App. Feel free to chat me:  [joymutheumusyoka@gmail.com](mailto: joymutheumusyoka@gmail.com).
+Hi, I'm Joy Mutheu Musyoka Feel free to chat me:  [joymutheumusyoka@gmail.com]
 
-## License
+##License 
 
 This project is licensed under the MIT License.
